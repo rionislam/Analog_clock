@@ -2,6 +2,11 @@
     padding: 0;
     margin: 0;
 }
+
+body{
+    background: beige;
+}
+
 #clockContainer{
     position: relative;
     width: 40vw;
